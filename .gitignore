@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Assignment specific (optional to exclude, but usually not submitted in the code repo)
+PS.pdf

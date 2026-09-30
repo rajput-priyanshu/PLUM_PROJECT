@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-genai>=2.0.0
+pillow
+pytesseract
+pydantic>=2.0
+httpx
+python-multipart
+pypdf
